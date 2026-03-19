@@ -40,6 +40,7 @@ Pipeline:
 ---
 
 ## 📂 Repository Structure
+ppo-il-medical-imaging/
 ├── notebooks/
 │ └── patl_rl_extension.ipynb
 ├── src/
